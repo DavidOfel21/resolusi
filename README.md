@@ -1,2 +1,2 @@
 # resolusi
-Repository untuk menyimpan rencana resokusi kedepannya
+Repository untuk menyimpan rencana resolusi kedepannya
